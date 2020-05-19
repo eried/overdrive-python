@@ -12,6 +12,7 @@ Requirements
 ------------
 * [Python 3.4+](https://python.org)
 * [bluepy](https://github.com/IanHarvey/bluepy)
+`sudo apt-get install bluepy bluez-hcidump`
 * Root permission
 
 Usages
